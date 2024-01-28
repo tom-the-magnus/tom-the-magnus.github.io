@@ -1,13 +1,13 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Tom's Blog",
 		name: "Tharindu N.",
 		email: "mail@tharindu.dev",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
+		// twitter: "https://twitter.com/",
 		github: "https://github.com/",
 		linkedin: "https://linkedin.com/",
 		instagram: "https://instagram.com/",
