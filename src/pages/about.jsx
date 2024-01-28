@@ -61,14 +61,14 @@ const About = () => {
 									</div>
 								</div>
 
-								<div className="about-socials">
+{/* 								<div className="about-socials">
 									<Socials />
-								</div>
+								</div> */}
 							</div>
 						</div>
-						<div className="about-socials-mobile">
+{/* 						<div className="about-socials-mobile">
 							<Socials />
-						</div>
+						</div> */}
 					</div>
 					<div className="page-footer">
 						<Footer />
