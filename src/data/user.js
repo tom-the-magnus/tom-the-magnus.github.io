@@ -8,7 +8,7 @@ const INFO = {
 
 	socials: {
 	// 	// twitter: "https://twitter.com/",
-	// 	github: "https://github.com/",
+		github: "https://github.com/tom-the-magnus",
 	// 	linkedin: "https://linkedin.com/",
 	// 	instagram: "https://instagram.com/",
 	// 	stackoverflow: "https://stackoverflow.com/",
