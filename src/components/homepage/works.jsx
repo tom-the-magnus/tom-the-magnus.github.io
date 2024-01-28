@@ -1,5 +1,6 @@
 import React from "react";
 import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
+import { faSalesforce } from "@fortawesome/free-solid-svg-icons";
 
 import Card from "../common/card";
 
