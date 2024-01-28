@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Thomas M. I live in New York.",
+		title: "I’m Tom. I live in New York.",
 		description:
 			"I've worked in sales at Salesforce and technical support at Teachable. These experiences have taught me how to quickly build rapport with customers, understand their business needs, and design solutions to fit these needs. I started learning programming because of my general interest in technology, my desire to have a more technical career, and my desire to design specific solutions to needs in my life by designing websites, writing bash scripts, or building mobile applicatons.",
 	},
