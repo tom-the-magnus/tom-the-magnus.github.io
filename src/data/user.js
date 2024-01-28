@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
 		title: "Tom's Blog",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		name: "Tom M.",
+		email: "tom.magnus.94@gmail.com",
 		logo: "../logo.png",
 	},
 
