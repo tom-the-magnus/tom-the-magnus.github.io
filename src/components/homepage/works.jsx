@@ -9,7 +9,7 @@ const Works = () => {
 	return (
 		<div className="works">
 			<Card
-				icon={faBriefcase}
+				icon={faSalesforce}
 				title="Work"
 				body={
 					<div className="works-body">
