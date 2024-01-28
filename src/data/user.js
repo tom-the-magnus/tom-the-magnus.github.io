@@ -35,49 +35,49 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Genre Genie",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This is my portfolio project for CS-340: Intro to Databases. It is a database web-app for a fictional movie business. The GUI for the webapp allows users to execute all CRUD operations for most entities in the database.The database is designe dusing MySQL, MariaDB, and Flask. The front-end is designed using Jinja HTML templates and CSS.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/tom-the-magnus/genre_genie",
 		},
 
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 2",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 3",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		// {
+		// 	title: "Project 4",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
+
+		// {
+		// 	title: "Project 5",
+		// 	description:
+		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+		// 	linkText: "View Project",
+		// 	link: "https://github.com",
+		// },
 	],
 };
 
