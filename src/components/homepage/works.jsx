@@ -10,7 +10,7 @@ const Works = () => {
 	return (
 		<div className="works">
 			<Card
-				icon={faSalesforce}
+				icon={faBriefcase}
 				title="Work"
 				body={
 					<div className="works-body">
