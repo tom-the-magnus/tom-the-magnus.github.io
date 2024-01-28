@@ -15,7 +15,7 @@ import "./styles/socials.css";
 const Socials = () => {
 	return (
 		<div className="socials">
-			<div className="social">
+{/* 			<div className="social">
 				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
@@ -25,7 +25,7 @@ const Socials = () => {
 					</div>
 					<div className="social-text">Follow on Twitter</div>
 				</a>
-			</div>
+			</div> */}
 
 			<div className="social">
 				<a href={INFO.socials.github} target="_blank" rel="noreferrer">
@@ -39,7 +39,7 @@ const Socials = () => {
 				</a>
 			</div>
 
-			<div className="social">
+{/* 			<div className="social">
 				<a
 					href={INFO.socials.linkedin}
 					target="_blank"
@@ -53,9 +53,9 @@ const Socials = () => {
 					</div>
 					<div className="social-text">Follow on LinkedIn</div>
 				</a>
-			</div>
+			</div> */}
 
-			<div className="social">
+{/* 			<div className="social">
 				<a
 					href={INFO.socials.instagram}
 					target="_blank"
@@ -69,7 +69,7 @@ const Socials = () => {
 					</div>
 					<div className="social-text">Follow on Instagram</div>
 				</a>
-			</div>
+			</div> */}
 
 			<div className="email">
 				<div className="email-wrapper">
