@@ -34,9 +34,9 @@ const Works = () => {
 								alt="Teachable"
 								className="work-image"
 							/>
-							<div className="work-title">Teachable</div>
+							<div className="work-title">Salesforce</div>
 							<div className="work-subtitle">
-								Senior Customer Support Agent
+								Business Development Representative
 							</div>
 							<div className="work-duration">2017 - 2020</div>
 						</div>
