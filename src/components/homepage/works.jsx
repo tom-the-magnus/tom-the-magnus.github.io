@@ -14,18 +14,6 @@ const Works = () => {
 				title="Work"
 				body={
 					<div className="works-body">
-						<div className="work">
-							<img
-								src="./salesforce.png"
-								alt="Salesforce"
-								className="work-image"
-							/>
-							<div className="work-title">Salesforce</div>
-							<div className="work-subtitle">
-								Business Development Representative
-							</div>
-							<div className="work-duration">2017 - 2020</div>
-						</div>
 
 						<div className="work">
 							<img
@@ -39,6 +27,21 @@ const Works = () => {
 							</div>
 							<div className="work-duration">2020 - 2023</div>
 						</div>
+						
+						<div className="work">
+							<img
+								src="./salesforce.webp"
+								alt="Salesforce"
+								className="work-image"
+							/>
+							<div className="work-title">Salesforce</div>
+							<div className="work-subtitle">
+								Business Development Representative
+							</div>
+							<div className="work-duration">2017 - 2020</div>
+						</div>
+
+
 					</div>
 				}
 			/>
