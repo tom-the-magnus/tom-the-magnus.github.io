@@ -17,7 +17,20 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./teachable.png"
+								src="./Salesforce.com_logo.svg"
+								alt="Teachable"
+								className="work-image"
+							/>
+							<div className="work-title">Teachable</div>
+							<div className="work-subtitle">
+								Senior Customer Support Agent
+							</div>
+							<div className="work-duration">2020 - 2023</div>
+						</div>
+
+						<div className="work">
+							<img
+								src="./salesforce.jpeg"
 								alt="Teachable"
 								className="work-image"
 							/>
