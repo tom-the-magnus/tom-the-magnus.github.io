@@ -52,7 +52,8 @@ const Contact = () => {
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							Thanks again for your interest, and I look forward
+							<br></br>
+							. Thanks again for your interest, and I look forward
 							to hearing from you!
 						</div>
 					</div>
