@@ -51,9 +51,9 @@ const Contact = () => {
 							&nbsp;{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
-							</a>
+							</a>.
 							<br></br>
-							. Thanks again for your interest, and I look forward
+							Thanks again for your interest, and I look forward
 							to hearing from you!
 						</div>
 					</div>
