@@ -45,8 +45,7 @@ const Projects = () => {
 						<div className="subtitle projects-subtitle">
 							I've only recently started to get serious about
 							programming, but I have a few projects that I'm proud to
-							show off. I'm mostly interested in Node, Python, Javascript right now. 
-							I'm also trying to learn about process automation and application development using cloud providers like AWS.
+							show off. I'm mostly interested in Javascript, Python, and SQL right now. 
 							Ultimately, I like building things that I personally think are useful, entertaining, or just plain interesting.
 						</div>
 
