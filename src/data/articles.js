@@ -7,7 +7,7 @@ function article_1() {
 		description:
 			"A short reflection on my intentions for this website.",
 		keywords: [
-			"The Benefits of Cloud Computing",
+			"Purpose",
 			"Tom Magnus",
 			"Tom",
 		],
@@ -26,14 +26,7 @@ function article_1() {
 		body: (
 			<React.Fragment>
 				<div className="article-content">
-					<div className="paragraph">This is just a test to see what happens.</div>
-					<img
-						src="https://picsum.photos/200/300"
-						alt="random"
-						className="randImage"
-					/>
-					<div className="paragraph">So here is another paragraph.</div>
-					<div className="paragraph">So here is another paragraph.</div>
+					<div className="paragraph">Right now this article is not written. This text is just a place holder. Sorry for the tease! It will be written soon.</div>
 				</div>
 			</React.Fragment>
 		),
