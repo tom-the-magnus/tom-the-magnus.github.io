@@ -16,7 +16,7 @@ const INFO = {
 	 },
 
 	homepage: {
-		title: "Writer, tinkerer, general inquisitor.",
+		title: "Communicator, tinkerer, general inquisitor.",
 		description:
 			"I am a seasoned client-facing professional with growing abilites in Python, SQL, and Javascript. This website hosts my projects, writings, and gives people an idea of who I am. The site is based off a react template by truethari's, is hosted on Github, and is deployed on Vercel.",
 	},
