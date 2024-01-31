@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Communicator, tinkerer, general inquisitor.",
 		description:
-			"I am a seasoned client-facing professional with growing abilites in Python, SQL, and Javascript. This website presents my projects and writings, and also gives people an idea of who I am. It's hosted on Github, deployed on Vercel.",
+			"I am a seasoned client-facing professional with growing abilites in Python, SQL, and Javascript. This website presents my work and also gives people an idea of who I am. It's hosted on Github, deployed on Vercel.",
 	},
 
 	about: {
