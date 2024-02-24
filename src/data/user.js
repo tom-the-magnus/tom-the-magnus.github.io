@@ -43,6 +43,24 @@ const INFO = {
 			link: "https://github.com/tom-the-magnus/genre_genie",
 		},
 
+		{
+			title: "My simple button",
+			description:
+				"Work in progress! This is a very simple button that I am making to wrap my head around React and the MERN stack.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/tom-the-magnus/my-simple-button",
+		},
+
+		{
+			title: "Copyleaks Submission App",
+			description:
+				"Another work in progress! This is a very simple MERN app I am putting together for my interview with Copyleaks.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/tom-the-magnus/copyleaks-demo",
+		},
+
 		// {
 		// 	title: "Project 2",
 		// 	description:
